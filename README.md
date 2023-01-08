@@ -1,7 +1,8 @@
 # Algorithmes des réseaux : CTRON
 
 ## Description
-Projet destiné à l'UE Algorithmes des réseaux à l'UFR Mathématique-Informatique Strasbourg. Langage C -> Utilisation d'interface graphique ncurses
+Projet destiné à l'UE Algorithmes des réseaux à l'UFR Mathématique-Informatique Strasbourg. Langage C -> Utilisation d'interface graphique ncurses.
+Réalisation du jeu TRON façon SNAKE avec l'utilisation de la connexion réseau TCP entre client/serveur.
 
 ## Compilation
 
